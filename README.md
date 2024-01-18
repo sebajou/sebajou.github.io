@@ -1,3 +1,3 @@
 # Sebajou Github Pages
 
-Link to my (https://sebajou.github.io/portfolio)[Portfolio]
+Link to my (Portfolio)[https://sebajou.github.io/portfolio]
